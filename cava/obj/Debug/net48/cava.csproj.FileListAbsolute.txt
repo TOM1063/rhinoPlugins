@@ -1,0 +1,9 @@
+C:\Users\tomsh\Documents\vs_projects\cava\bin\Debug\net48\cava.rhp
+C:\Users\tomsh\Documents\vs_projects\cava\bin\Debug\net48\cava.pdb
+C:\Users\tomsh\Documents\vs_projects\cava\obj\Debug\net48\cava.csproj.AssemblyReference.cache
+C:\Users\tomsh\Documents\vs_projects\cava\obj\Debug\net48\cava.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomsh\Documents\vs_projects\cava\obj\Debug\net48\cava.AssemblyInfoInputs.cache
+C:\Users\tomsh\Documents\vs_projects\cava\obj\Debug\net48\cava.AssemblyInfo.cs
+C:\Users\tomsh\Documents\vs_projects\cava\obj\Debug\net48\cava.csproj.CoreCompileInputs.cache
+C:\Users\tomsh\Documents\vs_projects\cava\obj\Debug\net48\cava.rhp
+C:\Users\tomsh\Documents\vs_projects\cava\obj\Debug\net48\cava.pdb
